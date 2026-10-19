@@ -1,0 +1,4 @@
+# Opcjonalne – ikona w zasobniku systemowym i powiadomienia Windows.
+# Bez nich aplikacja działa normalnie (powiadomienia pokazują się jako okienko w rogu ekranu).
+pystray>=0.19
+Pillow>=10.0
